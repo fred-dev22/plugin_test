@@ -1,0 +1,170 @@
+.InputPerson_17_745 {
+    background-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+    height: fit-content;
+    width: 238px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0px;
+    overflow: hidden;
+}
+.InputPerson_17_745[Property_1='with_menu'] {
+    overflow: unset;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Frame32_58_466 {
+    padding: unset;
+    padding-top: 18px;
+    padding-right: 10px;
+    padding-bottom: 18px;
+    padding-left: 10px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Frame33_58_467 {
+    padding: unset;
+    padding-top: 18px;
+    padding-right: 10px;
+    padding-bottom: 18px;
+    padding-left: 10px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Mdipluscircleoutline_58_473 {
+    top: unset;
+    overflow: unset;
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    align-items: center;
+    gap: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Vector_58_474 {
+    position: unset;
+    left: unset;
+    top: unset;
+    fill: rgba(61, 227, 98, 1);
+    height: 20px;
+    width: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Vector_58_474 {
+    position: unset;
+    left: unset;
+    top: unset;
+    fill: rgba(244, 19, 19, 1);
+    height: 20px;
+    width: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Mdipluscircleoutline_58_473 {
+    top: unset;
+    overflow: unset;
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    align-items: center;
+    gap: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Vector_58_474 {
+    position: unset;
+    left: unset;
+    top: unset;
+    fill: rgba(61, 227, 98, 1);
+    height: 20px;
+    width: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Vector_58_474 {
+    position: unset;
+    left: unset;
+    top: unset;
+    fill: rgba(244, 19, 19, 1);
+    height: 20px;
+    width: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Mdipluscircleoutline_58_473 {
+    top: unset;
+    overflow: unset;
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    align-items: center;
+    gap: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Vector_58_474 {
+    position: unset;
+    left: unset;
+    top: unset;
+    fill: rgba(61, 227, 98, 1);
+    height: 20px;
+    width: 20px;
+}
+.InputPerson_17_745[Property_1='with_menu'] .Vector_58_474 {
+    position: unset;
+    left: unset;
+    top: unset;
+    fill: rgba(244, 19, 19, 1);
+    height: 20px;
+    width: 20px;
+}
+.Frame32_58_466 {
+    position: relative;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.Passagers_58_469 {
+    width: fit-content;
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}
+.Frame33_58_467 {
+    position: relative;
+    height: 54px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    align-items: center;
+    gap: 191px;
+}
+.Inputplaceholder_58_470 {
+    color: rgba(0, 0, 0, 1);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}
+.Mdipluscircleoutline_58_473 {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 1);
+    height: 45px;
+    width: 45px;
+    right: 0px;
+    top: 5px;
+    overflow: hidden;
+}
+.Vector_58_474 {
+    fill: rgba(101, 104, 108, 1);
+    height: 27px;
+    width: 27px;
+    position: absolute;
+    left: 9px;
+    top: 9px;
+}

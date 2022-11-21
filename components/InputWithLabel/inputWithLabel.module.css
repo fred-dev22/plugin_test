@@ -1,0 +1,55 @@
+.InputWithLabel_17_592 {
+    background-color: rgba(255, 255, 255, 1);
+    height: 40px;
+    width: 300px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0px;
+}
+
+.Frame12_20_100 {
+    position: relative;
+    height: 100%;
+    width: 94px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px;
+    align-items: center;
+    gap: 0px;
+}
+.Label_306_838 {
+    width: fit-content;
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    text-align: right;
+    vertical-align: top;
+}
+.Frame26_51_244 {
+    position: relative;
+    height: 100%;
+    width: 206px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    align-items: center;
+    gap: 8px;
+}
+.Placeholder_51_474 {
+    flex: 1;
+    color: rgba(0, 0, 0, 0.5);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}
+.Vector_51_225 {
+    height: 21px;
+    width: 21.2359561920166px;
+}

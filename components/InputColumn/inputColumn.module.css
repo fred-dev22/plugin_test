@@ -1,0 +1,23 @@
+.InputColumn_20_34 {
+    background-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    gap: 1px;
+    overflow: hidden;
+}
+.InputWithLabel.InputWithLabel_308_656 {
+    position: relative;
+    width: 100%;
+    flex: 1;
+}
+.InputWithLabel.InputWithLabel_308_902 {
+    position: relative;
+    width: 100%;
+    flex: 1;
+}

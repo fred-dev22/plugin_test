@@ -1,0 +1,23 @@
+.Centredaide_429_957 {
+    background-color: rgba(255, 255, 255, 1);
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.Centredaide_429_957[Property_1='Variant2'] .Centredaide_429_955 {
+    color: unset;
+}
+.Centredaide_429_955 {
+    width: fit-content;
+    color: rgba(0, 0, 0, 1);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}

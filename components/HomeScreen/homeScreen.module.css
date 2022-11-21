@@ -1,0 +1,147 @@
+.HomeScreen_222_422 {
+    position: relative;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+.Frame90_426_923 {
+    position: relative;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.Carrousel.Carrousel_426_924 {
+    position: relative;
+    width: 1500px;
+    height: 695px;
+}
+.SearchBar.searchBar_386_1172 {
+    position: absolute;
+    left: 81px;
+    top: 378px;
+    width: 1338px;
+    height: 270px;
+}
+.Frame91_426_940 {
+    position: absolute;
+    height: fit-content;
+    width: fit-content;
+    left: 359px;
+    top: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 34px;
+    padding-left: 34px;
+    align-items: center;
+    gap: 7px;
+}
+.Frame92_429_942 {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.VoyageztraversleCameroun_426_941 {
+    width: fit-content;
+    font-family: Quicksand;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: normal;
+    line-height: normal;
+    text-indent: normal;
+    color: rgba(255, 255, 255, 1);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}
+.Frame93_429_943 {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.Travaillervoyagerconomiserrpter_429_944 {
+    width: fit-content;
+    font-family: Quicksand;
+    font-weight: 600;
+    font-size: 24px;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: normal;
+    line-height: normal;
+    text-indent: normal;
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}
+.Frame94_429_945 {
+    position: absolute;
+    height: fit-content;
+    width: 1500px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left: 10px;
+    align-items: center;
+    gap: 0px;
+}
+.Avion_429_990 {
+    background: url('/generated/fa45799dc8a575efe71476d49eec4bd85352c5ad.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 99.0810775756836px;
+    width: 282px;
+}
+.Frame96_429_962 {
+    position: relative;
+    background-color: rgba(255, 255, 255, 1);
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+}
+.Grermarservation.G_rer_ma_r_servation_429_988 {
+    position: relative;
+    height: 100%;
+    width: fit-content;
+}
+.Centredaide.Centre_d_aide_429_979 {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+}

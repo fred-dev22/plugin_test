@@ -1,0 +1,23 @@
+.Grermarservation_429_983 {
+    background-color: rgba(255, 255, 255, 1);
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.Grermarservation_429_983[Property_1='Variant2'] .Grermarservation_429_981 {
+    color: unset;
+}
+.Grermarservation_429_981 {
+    width: fit-content;
+    color: rgba(0, 0, 0, 1);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}

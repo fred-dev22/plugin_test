@@ -1,0 +1,18 @@
+.Jerechercheunvol_64_75 {
+    background-color: rgba(255, 255, 255, 1);
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+}
+.Jerechercheunvol_51_112 {
+    width: fit-content;
+    color: rgba(0, 0, 0, 1);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}

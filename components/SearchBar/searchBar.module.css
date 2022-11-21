@@ -1,0 +1,73 @@
+.SearchBar_376_988 {
+    background-color: rgba(255, 255, 255, 1);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+    align-items: flex-start;
+    gap: 20px;
+}
+.HeaderSearchBar_376_803 {
+    position: relative;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.Jerechercheunvol.Je_recherche_un_vol_376_804 {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+}
+.Select.select_376_866 {
+    position: relative;
+    height: 24px;
+    width: fit-content;
+}
+.En_classe_382_1106 {
+    color: rgba(0, 0, 0, 1);
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    vertical-align: top;
+}
+.Select.select_376_869 {
+    position: relative;
+    height: 24px;
+    width: fit-content;
+}
+.Frame6_376_808 {
+    position: relative;
+    background-color: rgba(255, 255, 255, 1);
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.InputColumn.InputColumn_376_919 {
+    position: relative;
+    height: 90px;
+    width: 300px;
+}
+.InputColumn.InputColumn_376_932 {
+    position: relative;
+    height: 90px;
+    width: 300px;
+}
+.InputPerson.inputPerson_376_945 {
+    position: relative;
+    height: fit-content;
+    width: 238px;
+}
+.Button.button_376_986 {
+    position: relative;
+    height: 100%;
+    width: 185px;
+}
